@@ -4,7 +4,7 @@ The objective of this project is to design and develop a dynamic and interactive
 ## Key Performance Indicators (KPIs) Requirements
 The Car Sales Dashboard is designed to track critical business metrics that help measure performance, identify trends, and support data-driven decision-making. The KPIs are grouped across three major categories:
 
-     1️⃣ Sales Overview
+   1️⃣ Sales Overview
 These KPIs focus on measuring total sales revenue over different time periods and comparing performance against previous periods:
 ->Year-to-Date (YTD) Total Sales
 ->Month-to-Date (MTD) Total Sales
