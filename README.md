@@ -48,4 +48,14 @@ These KPIs track vehicle sales volume, helping measure market demand and dealers
 - Time Intelligence Functions     
 - Interactive Visualizations & Filters    
 
+## 🎯Impact & Takeaway:  
+This dashboard valuable tool for trcking the performance,analysis etc:   
+✔️ Identifying high-performing car models and segments    
+✔️ Revealing regional sales strengths & gaps    
+✔️ Highlighting pricing trends and revenue opportunities    
+✔️ Helping leadership make fast, data-driven decisions    
 
+# 📬Contact       
+🔗 [GitHub Repository](https://github.com/)          
+📫 Email: anshikjain85@gmail.com         
+🌐 LinkedIn: https://www.linkedin.com/in/anshikjain15/     
