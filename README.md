@@ -38,6 +38,7 @@ These KPIs track vehicle sales volume, helping measure market demand and dealers
 <img width="1801" height="483" alt="image" src="https://github.com/Anshik15/Car-Sales-Dashboard/blob/main/Car%20Sales%20Dashboard%20Detail.png" />
 
 ## Data Source
+https://github.com/Anshik15/Car-Sales-Dashboard/blob/main/Car%20Sales.xlsx
 
 
 ## Skills Demonstrated   
