@@ -9,16 +9,16 @@ These KPIs focus on measuring total sales revenue over different time periods an
 ->Year-to-Date (YTD) Total Sales    
 ->Month-to-Date (MTD) Total Sales     
 ->Year-over-Year (YOY) Growth in Total Sales      
-->Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales     
-2️⃣    Average Price Analysis
-These KPIs help analyze pricing trends and understand how the average selling price changes over time:
-->YTD Average Price
-->MTD Average Price
-->YOY Growth in Average Price
-->Difference between YTD and PTYD Average Price
-3️⃣    Cars Sold Metrics
-These KPIs track vehicle sales volume, helping measure market demand and dealership performance:
-->YTD Cars Sold
-->MTD Cars Sold
-->YOY Growth in Cars Sold
-->Difference between YTD Cars Sold and PTYD Cars Sold
+->Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales        
+2️⃣    Average Price Analysis    
+These KPIs help analyze pricing trends and understand how the average selling price changes over time:    
+->YTD Average Price     
+->MTD Average Price     
+->YOY Growth in Average Price     
+->Difference between YTD and PTYD Average Price     
+3️⃣    Cars Sold Metrics    
+These KPIs track vehicle sales volume, helping measure market demand and dealership performance:  
+->YTD Cars Sold   
+->MTD Cars Sold    
+->YOY Growth in Cars Sold    
+->Difference between YTD Cars Sold and PTYD Cars Sold     
