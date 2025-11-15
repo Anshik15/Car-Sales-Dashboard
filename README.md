@@ -26,13 +26,15 @@ These KPIs track vehicle sales volume, helping measure market demand and dealers
 ## 📈 Key Visuals Included:   
 
 ->📈 Weekly Sales Trend Line Chart (YTD view)   
-
 ->🍩 YTD Sales by Body Style   
-
 ->🎨 YTD Sales by Color      
-
 ->🗺️ Dealer Region Sales Map   
-
 ->🏢 Company-Wise Sales Grid   
-
 ->🧾 Detailed Sales Table with model, style, color, region & more   
+
+## Dashboard Preview:
+<img width="1801" height="483" alt="image" src="https://github.com/Anshik15/Car-Sales-Dashboard/blob/main/Car%20Sales%20Dashboard%20Overview.png" />    
+<img width="1801" height="483" alt="image" src="https://github.com/Anshik15/Car-Sales-Dashboard/blob/main/Car%20Sales%20Dashboard%20Detail.png" />
+
+
+
