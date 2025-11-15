@@ -34,7 +34,18 @@ These KPIs track vehicle sales volume, helping measure market demand and dealers
 
 ## Dashboard Preview:
 <img width="1801" height="483" alt="image" src="https://github.com/Anshik15/Car-Sales-Dashboard/blob/main/Car%20Sales%20Dashboard%20Overview.png" />    
+<img width="1801" height="483" alt="image" src="https://github.com/Anshik15/Car-Sales-Dashboard/blob/main/Car%20Sales%20Dashboard%20Overview%20(2).png" /> 
 <img width="1801" height="483" alt="image" src="https://github.com/Anshik15/Car-Sales-Dashboard/blob/main/Car%20Sales%20Dashboard%20Detail.png" />
 
+## Data Source
+
+
+## Skills Demonstrated   
+- Data Modeling & Relationship Building     
+- DAX (YTD, MTD, YOY, PTYD Calculations)    
+- KPI Development & Performance Tracking    
+- Power Query for Data Cleaning & Transformation    
+- Time Intelligence Functions     
+- Interactive Visualizations & Filters    
 
 
